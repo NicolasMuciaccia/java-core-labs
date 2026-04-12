@@ -1,4 +1,4 @@
-﻿package br.com.java.core.labs.fundamentos;
+package br.com.java.core.labs.fundamentos;
 
 // Estude os pilares de Orientação a Objetos: Classes, Objetos, Encapsulamento,
 // Herança, Polimorfismo, Abstração e Interfaces.
