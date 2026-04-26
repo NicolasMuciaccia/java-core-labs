@@ -18,7 +18,7 @@ public class OrientacaoObjetosTest {
     class ClasseFilha extends ClassePai {
         int valor = 20;
 
-        public  int getSoma() {
+        public int getSoma() {
             return this.valor + super.valor;
         }
     }
@@ -27,11 +27,6 @@ public class OrientacaoObjetosTest {
     public void testThisESuper() {
         ClasseFilha obj = new ClasseFilha();
         assertEquals(27, obj.getSoma());
-    }
-
-    @Test
-    public void test(){
-
     }
 
     @Test
